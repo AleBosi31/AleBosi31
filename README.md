@@ -1,4 +1,4 @@
-# 👋 Hi there! I'm Alessandro Bosi
+# 👋 Hi there! I'm Alessandro
 
 🎓 Data Science graduate with a background in Economics  
 📊 Passionate about data, machine learning, and building smart solutions  
