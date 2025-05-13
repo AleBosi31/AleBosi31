@@ -2,7 +2,6 @@
 
 🎓 Data Science graduate with a background in Economics  
 📊 Passionate about data, machine learning, and building smart solutions  
-🌍 Currently exploring real-world datasets and sharing my projects here on GitHub
 🏋️ When I'm not analyzing data, you’ll probably find me at the gym
 
 ---
